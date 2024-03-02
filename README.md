@@ -18,6 +18,6 @@ Aspiring React.js, Node.js, and JavaScript Developer Intern | Actively seeking h
 ## Get in Touch
 
 - LinkedIn: [Kaushal Damani](https://www.linkedin.com/in/kaushal-damani-b89747232/)
-- Email: [](kaushaldamani386@gmail.com)
+- Email: [kaushaldamani386@gmail.com](kaushaldamani386@gmail.com)
 
 Feel free to reach out! Let's connect and build something amazing together. 😊
