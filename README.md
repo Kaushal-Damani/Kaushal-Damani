@@ -2,7 +2,7 @@
 🚀 MERN Stack Developer | Passionate Coder | Lifelong Learner  
 
 ## About Me  
-I'm a **MERN Stack Developer** with **2+ years of experience**, specializing in building scalable, efficient, and user-friendly web applications. My expertise spans **frontend technologies**, **backend development**, and **UI/UX optimization**, with a focus on creating seamless digital experiences.
+I'm a **MERN Stack Developer** with **3+ years of experience**, specializing in building scalable, efficient, and user-friendly web applications. My expertise spans **frontend technologies**, **backend development**, and **UI/UX optimization**, with a focus on creating seamless digital experiences.
 
 ---
 
